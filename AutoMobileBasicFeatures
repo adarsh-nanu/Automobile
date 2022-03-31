@@ -7,3 +7,9 @@ int setWipersOnOff()
 {
 
 }
+
+int turnOnEngine()
+{}
+
+int shutOffEngine()
+{}
