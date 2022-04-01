@@ -9,3 +9,5 @@ int setWipersOnOff()
 }
 
 Trucks have a huge engine and often linked to a trailer
+
+This has features of trailer truck, tanker, and flatbed.
