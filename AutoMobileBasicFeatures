@@ -16,3 +16,6 @@ int shutOffEngine()
 
 int shunt()
 {}
+
+int checkVaccuumBrakes()
+{}
