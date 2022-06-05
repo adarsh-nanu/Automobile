@@ -13,3 +13,6 @@ int turnOnEngine()
 
 int shutOffEngine()
 {}
+
+int shunt()
+{}
